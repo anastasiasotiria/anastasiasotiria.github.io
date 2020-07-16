@@ -2,8 +2,8 @@ var Typer={
 	text: null,
 	accessCountimer:null,
 	index:0, 
-	speed:2,
-	file:"", 
+	speed:3,
+	file:"anastasiasotiria.txt", 
 	accessCount:0,
 	deniedCount:0, 
 	init: function(){
@@ -96,8 +96,6 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=3;
-Typer.file="anastasiasotiria.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
