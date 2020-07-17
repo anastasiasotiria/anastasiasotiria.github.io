@@ -1,13 +1,13 @@
-<span id="a">anastasia@filippou</span>:<span id="b">~</span><span id="c">$</span> cd Anastasia/<!-- laglaglaglaglaglag -->About_Us
+<span id="a">anastasia@filippou</span>:<span id="b">~</span><span id="c">$</span> cd Anastasia/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">anastasia@filippou</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->anastasia.txt<br/><br/>
 My favorite quote
 <span id="k">If you stand for nothing, what would you fall for? 
 - Lil Manuel Miranda -</span> <!-- sjkfhskjf -->
 
 Hey There! This is my portflio website. <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I created this so I can present some things about myself.</p>
-<p>My name is Anastasia Sotiria Filippou and I was born in Greece.<!-- bitlagbitlagbitlagbitlagbitlagbitlag --> Summer of 2014 I decided to move in the Netherlands and a few months later... <!-- bitlagbitlagbitlagbitlagbitlagbitlag --> here I was!</p>
+<p>My name is Anastasia Sotiria Filippou and I was born in Greece.<!-- bitlagbitlag --> Summer of 2014 I decided to move in the Netherlands and a few months later... <!-- bitlagbitlagbitlagbitlagbitlagbitlag --> here I was!</p>
 
-<p>I have worked for two companies in the Netherlands so far. <a target="_blank" href="https://worth.systems"> Worth internet systems</a> from March 2015 until April 2017. and <a target="_blank" href="https://oneshoe.com"> One Shoe B.V.</a> from April 2017 until now.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>I have worked for two companies in the Netherlands so far. <a target="_blank" href="https://worth.systems"> Worth internet systems</a> from March 2015 until April 2017 and <a target="_blank" href="https://oneshoe.com"> One Shoe B.V.</a> from April 2017 until now.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>I mostly have worked with Drupal 7 and 8 but I also have done some work with Laravel, Symfony, Java spring, Angular, React native and Python <br><br><br> Some projects that I am proud of are <a target="_blank" href="https://dhlparcel.nl">DHL Parcel</a> and <a target="_blank" href="https://studyinholland.nl">Study in Holland</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 
 Please feel free to get in touch if you want in my <!-- slightdelayhere--><a href="mailto:pli1885@gmail.com">mail</a></br><!-- longlonglongcomment -->
